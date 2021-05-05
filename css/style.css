@@ -90,8 +90,8 @@ header svg {
   -ms-grid-columns: 1fr 1fr;
       grid-template-columns: 1fr 1fr;
   margin: 7vh 0;
-  -webkit-perspective: 200px;
-          perspective: 200px;
+  -webkit-perspective: 150px;
+          perspective: 150px;
 }
 
 .withpic img {
